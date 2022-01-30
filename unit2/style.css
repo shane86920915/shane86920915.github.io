@@ -1,0 +1,23 @@
+.nav_pages {
+  background-color:#dddddd;
+  padding: 8px;
+ 
+}
+.nav_pages a{
+  width: 100%;
+  padding: 12px;
+  text-decoration: none;
+  color: blue;
+}
+.nav_pages a:hover{
+  color: black;
+  text-decoration: underline;
+}
+li a{
+  color:blue;
+  text-decoration: none;
+}
+li a:hover{
+  color:black;
+  text-decoration: underline
+}
