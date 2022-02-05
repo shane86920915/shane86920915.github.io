@@ -1,3 +1,4 @@
+
 a:hover{
 color: red;
 text-decoration: underline;
@@ -7,5 +8,15 @@ font-size: 20px;
 a{
   text-decoration: none;
   color:blue;
+}
+h1{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+body{
+  background-image: url("/images/R.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+ 
 }
 
