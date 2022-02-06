@@ -7,7 +7,7 @@ background-color: rebeccapurple
 }
 a{
   text-decoration: none;
-  color:rgba(2, 1, 63, 0.911, .1.5) ;
+  color:rgba(37, 34, 226, 0.911) ;
   font-size: 20px;
 }
 h1{
@@ -15,6 +15,12 @@ h1{
 }
 body{
   background-color: turquoise;
+}
+nav{
+  border-style: solid;
+  width: 120px;
+  height: 125px;
+  background-color: rgba(0, 0, 0, 0.267);
 }
 
 
