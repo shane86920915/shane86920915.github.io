@@ -1,27 +1,36 @@
 
 a:hover{
-color: red;
+
 text-decoration: underline;
 font-size: 25px;
-background-color: rebeccapurple
+
 }
+nav li:hover{
+
+ margin: 0;
+}
+
+
 a{
   text-decoration: none;
-  color:rgba(37, 34, 226, 0.911) ;
+  color:black;
   font-size: 20px;
+ 
 }
 h1{
+
     font-family: "Lucida Console", "Courier New", monospace;
+ 
+    
 }
+
 body{
-  background-color: turquoise;
+  background-color:#DEF2F1;
+  margin: 0;
+
 }
-nav{
-  border-style: solid;
-  width: 120px;
-  height: 125px;
-  background-color: rgba(0, 0, 0, 0.267);
-}
+
+
 
 
 

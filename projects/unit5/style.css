@@ -1,0 +1,92 @@
+body{
+  background-color: #C6AC8F;
+}
+h1, h2, h3{
+  text-align: center;
+}
+#wrapper{
+  width: 80%;
+ margin: auto;
+}
+div{
+  width: 90%;
+ margin: auto;
+}
+.itembox{
+  border: 2px solid #22333B;
+  border-radius: 20px;
+  box-shadow: 3px 3px 10px #22333B;
+  background-color: rgb(255, 246, 236);
+  color: #0A0908;
+  padding: 20px;
+}
+.favorites{
+   border-style:  dotted solid ;
+   border-color: #1be7ff;
+   border-width: 6px;
+  border-radius: 20px;
+  box-shadow: 3px 3px 10px #22333B;
+  background-color: #FDFFB6;
+  color: #0A0908;
+  padding: 20px;
+}
+.home{
+  border-radius: 10px;
+  border: 1px solid red;
+  padding: 6px;
+  color: white;
+  background-color: black;
+}
+nav{
+line-height: 1.5;
+  background-color: #c2c5aa;
+  margin: auto;
+  width: 90%;
+  border: 2px solid #22333B;
+  border-radius: 20px;
+  box-shadow: 2px 2px 5px #22333B;
+ 
+  color: #0A0908;
+  
+}
+p{
+  line-height: 1.5;
+}
+nav ul{
+  list-style-type: none;
+}
+nav a{
+  text-decoration: none;
+
+  color: black;
+}
+nav li{
+  display: inline;
+
+  padding: 5px;
+}
+
+nav a:hover{
+  text-decoration: underline;
+  
+}
+.home:hover{
+  color: pink;
+}
+footer{
+  position: relative;
+}
+
+footer a{
+ position: absolute;
+ left:  150px;
+ top: 0px;
+}
+
+
+
+
+
+
+
+
