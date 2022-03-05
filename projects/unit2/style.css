@@ -10,7 +10,7 @@
   color: blue;
 }
 .nav_pages a:hover{
-  color: black;
+  color: red;
   text-decoration: underline;
 }
 li a{

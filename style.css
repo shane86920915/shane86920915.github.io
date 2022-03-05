@@ -1,37 +1,22 @@
-
-a:hover{
-
+body{
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(https://media.istockphoto.com/vectors/grunge-border-frame-vector-id1006465728?k=6&m=1006465728&s=170667a&w=0&h=dCSdGSk5tlknOzg0IYBWiH6PSPuRUiNuTZ_7uy5PoAk=) 30 round;
+}
+a:hover
+{
 text-decoration: underline;
 font-size: 25px;
-
 }
 nav li:hover{
-
  margin: 0;
 }
-
-
 a{
   text-decoration: none;
   color:black;
   font-size: 20px;
- 
 }
 h1{
-
+ text-align: center;
     font-family: "Lucida Console", "Courier New", monospace;
- 
-    
 }
-
-body{
-  background-color:#DEF2F1;
-  margin: 0;
-
-}
-
-
-
-
-
-
