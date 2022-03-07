@@ -2,6 +2,7 @@ body{
   border: 10px solid transparent;
   padding: 15px;
   border-image: url(https://media.istockphoto.com/vectors/grunge-border-frame-vector-id1006465728?k=6&m=1006465728&s=170667a&w=0&h=dCSdGSk5tlknOzg0IYBWiH6PSPuRUiNuTZ_7uy5PoAk=) 30 round;
+ 
 }
 a:hover
 {

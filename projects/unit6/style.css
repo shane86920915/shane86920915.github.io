@@ -43,9 +43,15 @@ font-family: 'Syne Mono', monospace;
 }
 .home-button{
   border: 3px solid #7b2cbf;
-  border-radius: 40%;
-  padding: 5px;
+  padding: 7px;
  background-color: black;
   color: tomato;
   text-decoration: none;
+  transition: color 0.25s, border-color 0.25s, box-shadow 0.25s, transform 0.25s;
+}
+.home-button:hover{
+border-color: #f1ff5c;
+  color: #f1ff5c;
+  box-shadow: 0 0.5em 0.5em -0.3em #f1ff5c; 
+  transform: translateY (-0.15px);
 }
