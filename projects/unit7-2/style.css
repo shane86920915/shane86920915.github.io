@@ -11,7 +11,8 @@ body{
   to {background-color: blue;}
   
 } 
-  
+
+
 
 div{
   position: relative;
@@ -19,11 +20,6 @@ div{
 /*
 Add your CSS to the ID selectors below
 */
-#statue{
-
- 
-}
-
 #ball{
 top: 20px;
   left: 23px;

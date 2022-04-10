@@ -1,0 +1,26 @@
+body{
+  font-size: 1.25em;
+  width: 90%;
+}
+#container #header{
+  
+  background-image: none;
+  
+}
+#sidebar #footer{
+  display: none;
+}
+#sidebar > h3, .news{
+  display: none;
+}
+#container > #nav{
+  display: none;
+}
+
+.wp-block-image {
+  display: none;
+}
+
+a::after {
+  content: " (" attr(href) ")"; 
+} 
