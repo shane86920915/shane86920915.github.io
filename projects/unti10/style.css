@@ -1,0 +1,31 @@
+
+body{
+  margin: 0;
+  background-image: url("sunset.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+table {
+ position: absolute;
+  width: 100%;
+  top: 24%;
+  background-color: rgba(0, 0, 0, 0.5)
+}
+th{
+  border-bottom: 1px solid black;
+  padding: 10px;
+}
+.top-th{
+  
+  border-top: 1px solid black;
+}
+a{
+ font-family: 'Roboto Mono', monospace;
+  font-size: 30px;
+  color: #dae3e5;
+  text-decoration: none;
+}
+a:hover{
+  color: #ffe45e;
+  text-decoration: underline;
+}

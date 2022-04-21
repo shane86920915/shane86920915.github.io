@@ -1,0 +1,26 @@
+
+table{
+  width: 90%;
+  margin: auto;
+  border-collapse: collapse;
+  box-shadow: 2px 2px 2px;
+}
+th, td{
+
+  padding: 10px;
+  border: 1px solid black;
+  
+}
+ .nav{
+  
+  text-decoration: none;
+  color: blue;
+   display: block;
+  font-size: 25px; 
+   padding: 13px;
+}
+ .nav:hover{
+text-decoration: underline;
+font-size: 25px; 
+  width: 100%;
+}
