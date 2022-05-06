@@ -1,7 +1,6 @@
 *{
   margin:0;
   padding: 0px;
-  box-sizing: border-box;
 }
 body{
   background-image: url("poseidon-1621062.jpg");
@@ -10,15 +9,18 @@ body{
   background-attachment: fixed;
 }
 ul{
-border: 1px solid black;
-  box-sizing: border-box;
+ box-sizing: border-box; 
+ 
   background-color: rgba(255, 255, 255, .2);
   list-style-type: none;
-margin: auto;
+margin:  auto;
   width: 90%;
 }
-  a:hover{
+  li:hover{
+    
 background-color: rgba(255, 0, 0, .5);
+   
+    
 }
 a{
   display: block;
@@ -26,10 +28,20 @@ a{
   color: #000000;
   padding: 10px;
 }
-
 h1{
  text-align: center;
     font-family: "Lucida Console", "Courier New", monospace;
+  text-shadow: 1px 1px 6px red, 3px 3px 3px white;
 }
-
+li{
+border-left: 1px solid black;
+  border-right: 1px solid black;
+  
+}
+.top{
+  border-top: 1px solid black;
+}
+.bottom{
+  border-bottom: 1px solid black;
+}
 
