@@ -1,0 +1,35 @@
+body{
+ 
+  margin-top: 20px;
+background: rgb(30,36,0);
+background: radial-gradient(circle, rgba(30,36,0,0.7458333675266982) 0%, rgba(9,11,121,0.43771011822697825) 75%, rgba(2,85,247,0.7066176812521884) 100%);
+}
+#fav_media{
+  padding: 2px 5px 0px 2px;
+}
+form{
+  background-color: whitesmoke;
+  box-shadow: 2px 2px 5px black;
+  margin-left: 540px;
+  width: 800px;
+
+  padding: 22px;
+  border: 1px solid black;
+}
+
+fieldset{
+  box-shadow: 2px 2px 5px black;
+}
+.home{
+ text-decoration: none;
+  color: black;
+ background-color: white;
+  border: 1px solid red;
+  padding: 12px 25px 12px 25px;
+  border-radius: 25px;
+  position: relative;
+  bottom: 20px;
+}
+.home:hover{
+  text-decoration: underline;
+}

@@ -1,0 +1,99 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  margin-top: 50px;
+ background-image: url("architecture-1868547.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.regform{
+ color: white;
+  margin: auto;
+  width: 800px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, .9);
+  border-radius: 15px 15px 0px 0px; 
+  padding: 20px 0px 20px 0px
+}
+form{
+  padding: 10px;
+}
+main{
+  width: 800px;
+  margin: auto;
+  background-color: rgba(0, 128, 128, .9);
+}
+#name{
+  width: 100%;
+  height: 100px;
+}
+.name{
+  color: white;
+  margin-left: 25px;
+ margin-top: 30px;
+  width: 125px;
+  
+}
+button{
+  margin-top: 10px;
+  border: 1px solid black;
+  padding: 5px 4px 5px 5px;
+  border-radius: 10px;
+}
+#firstname{
+  position: relative;
+  left: 170px;
+  top: -25px;
+  padding: 8px;
+  width: 25%;
+}
+#lastname{
+   position: relative;
+  left: 240px;
+  top: -25px;
+  padding: 8px;
+  width: 25%;
+}
+#email{
+  position: relative;
+  top: -40px;
+    left: 170px;
+   padding: 8px;
+  width: 62.2%;
+}
+
+#bday{
+    position: relative;
+  top: -40px;
+    left: 170px;
+   padding: 8px;
+   width: 25%;
+}
+#schedule{
+      position: relative;
+  top: -40px;
+    left: 170px;
+   padding: 8px;
+   width: 25%;
+}
+.home{
+ text-decoration: none;
+  color: black;
+ background-color: white;
+  border: 1px solid black;
+  padding: 8px 30px 8px 30px;
+  border-radius: 25px;
+}
+
+ button{
+  padding: 10px;
+  width: 8em;
+  border-radius: 25px;
+}
+button:hover, a:hover{
+  text-decoration: underline;
+}
